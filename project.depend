@@ -1,0 +1,191 @@
+# depslib dependency file v1.0
+1464162197 source:z:\dsa lab\lab 9\project\hotel.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<stdio.h>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	"array.h"
+
+1464162162 z:\dsa lab\lab 9\project\array.h
+
+1464164074 source:z:\dsa lab\lab 9\project\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<stdio.h>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+	"array.h"
+	"node.h"
+	"LL.h"
+	"stack.h"
+	"queue.h"
+
+1464162261 z:\dsa lab\lab 9\project\node.h
+	<string>
+
+1464162162 z:\dsa lab\lab 9\project\ll.h
+	"node.h"
+
+1464162162 z:\dsa lab\lab 9\project\stack.h
+	"LL.h"
+
+1464162162 z:\dsa lab\lab 9\project\queue.h
+	"stack.h"
+
+1464162225 source:z:\dsa lab\lab 9\project\node.cpp
+	"node.h"
+
+1464162162 source:z:\dsa lab\lab 9\project\queue.cpp
+	<iostream>
+	"queue.h"
+
+1464162162 source:z:\dsa lab\lab 9\project\stack.cpp
+	"stack.h"
+
+1464162282 source:z:\dsa lab\lab 9\project\ll.cpp
+	"LL.h"
+	<iostream>
+
+1464162197 source:z:\dsa lab\project\hotel.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<stdio.h>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	"array.h"
+
+1464162162 z:\dsa lab\project\array.h
+
+1464178017 source:z:\dsa lab\project\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<stdio.h>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+	"array.h"
+	"node.h"
+	"LL.h"
+	"stack.h"
+	"queue.h"
+
+1464162261 z:\dsa lab\project\node.h
+	<string>
+
+1464162162 z:\dsa lab\project\ll.h
+	"node.h"
+
+1464162162 z:\dsa lab\project\stack.h
+	"LL.h"
+
+1464162162 z:\dsa lab\project\queue.h
+	"stack.h"
+
+1464162225 source:z:\dsa lab\project\node.cpp
+	"node.h"
+
+1464162162 source:z:\dsa lab\project\queue.cpp
+	<iostream>
+	"queue.h"
+
+1464162162 source:z:\dsa lab\project\stack.cpp
+	"stack.h"
+
+1464162282 source:z:\dsa lab\project\ll.cpp
+	"LL.h"
+	<iostream>
+
+1464162198 source:e:\class\programs\lab\final project\project\hotel.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<stdio.h>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	"array.h"
+
+1464162164 e:\class\programs\lab\final project\project\array.h
+
+1464162284 source:e:\class\programs\lab\final project\project\ll.cpp
+	"LL.h"
+	<iostream>
+
+1464162164 e:\class\programs\lab\final project\project\ll.h
+	"node.h"
+
+1464162262 e:\class\programs\lab\final project\project\node.h
+	<string>
+
+1464162226 source:e:\class\programs\lab\final project\project\node.cpp
+	"node.h"
+
+1465368339 source:e:\class\programs\lab\final project\project\queue.cpp
+	<iostream>
+	"queue.h"
+
+1464162164 e:\class\programs\lab\final project\project\queue.h
+	"stack.h"
+
+1464162164 e:\class\programs\lab\final project\project\stack.h
+	"LL.h"
+
+1464162164 source:e:\class\programs\lab\final project\project\stack.cpp
+	"stack.h"
+
+1464707393 source:e:\class\programs\lab\final project\project\bst_node.cpp
+	"bst_node.h"
+	<string>
+
+1464707473 e:\class\programs\lab\final project\project\bst_node.h
+	"queue.cpp"
+	"string"
+
+1464162164 e:\class\programs\lab\final project\project\queue.cpp
+	<iostream>
+	"queue.h"
+
+1464707959 source:e:\class\programs\lab\final project\project\bst_source.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"bst_header.h"
+
+1464707845 e:\class\programs\lab\final project\project\bst_header.h
+	"bst_node.cpp"
+
+1464707393 e:\class\programs\lab\final project\project\bst_node.cpp
+	"bst_node.h"
+	<string>
+
+1465368378 source:e:\class\programs\lab\final project\project\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<stdio.h>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+	"array.h"
+	"node.h"
+	"LL.h"
+	"stack.h"
+	"queue.h"
+
